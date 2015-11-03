@@ -1,0 +1,21 @@
+syntax: glob
+
+# Build
+build/*
+target/*
+percolator.egg-info/*
+dist/*
+
+# Compiled Jython/Python files
+*.pyc
+*$py.class
+
+# Vim temporary / swap files
+.*.sw*
+
+# IDE
+.idea
+.project
+.pydevproject
+
+lib/*
