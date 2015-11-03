@@ -1,12 +1,14 @@
-## README ##
 
-# py2mail V0.3 Beta #
+## py2mail V0.3 Beta ##
 Created on Thursday, January  26 12:02:04 2015
 
 Author: Datuman
+
 https://github.com/kod5kod
 
 ####*py2mail is a simple python email wrapper* ####
+
+
 
 ### Necessary Files: ###
 
